@@ -1,5 +1,5 @@
 # About
-Translation of a teaching unit or lesson on digital annotation originally creatad for forText by M. Schumacher: (https://fortext.net/routinen/lehrmodule/digitale-annotation-mit-catma-lehren)
+Translation of a teaching unit or lesson on digital annotation originally creatad for forText by M. Schumacher: (https://fortext.net/routinen/lehrmodule/digitale-annotation-mit-catma-lehren). The original lesson text can be found as an .html snippet in the file (original_ger.html). 
 
 Translations are made from German into Englisch and Norwegian to be used in teaching settings for students and researchers in Norway and courses held at the University of Oslo Library.
 
