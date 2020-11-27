@@ -1,11 +1,15 @@
 # About
 Translation of a teaching unit or lesson on digital annotation originally creatad for forText by M. Schumacher: (https://fortext.net/routinen/lehrmodule/digitale-annotation-mit-catma-lehren). The original lesson text can be found as an .html snippet in the file (original_ger.html). 
 
-Translations are made from German into Englisch and Norwegian to be used in teaching settings for students and researchers in Norway and courses held at the University of Oslo Library.
-
-Timeframe for the translation is 2021, with a first workable draft being finished by late fall 2021, starting with an English translation.
+Translations are made from German into English and Norwegian (norsk bokmål) to be used in teaching settings for students and researchers in Norway, especially in courses held at the University of Oslo Library.
 
 The translation will include replacing the example text for annotation with an English and a Norwegian text, respectively.
+
+The translation will hopefully be included in the official forText module.
+
+# When
+
+Timeframe for the translation is 2021, with a first workable draft being finished by late fall 2021, starting with an English translation.
 
 # License
 
