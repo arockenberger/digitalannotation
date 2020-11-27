@@ -9,7 +9,7 @@ The translation will include replacing the example text for annotation with an E
 
 # License
 
-The original lesson materials are licesend under a CC-BY-SA 3.0 Creative Commons Attribution ShareAlike 3.0 International License. The translations will be released under the [same license](LICENSE.txt).
+The original lesson materials are licesend under a CC-BY-SA 3.0 Creative Commons Attribution ShareAlike 3.0 International License. The translations will be released under the [same license](LICENSE.txt) in the latest version 4.0.
 
 # Contributing
 
